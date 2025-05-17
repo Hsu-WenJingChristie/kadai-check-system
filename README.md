@@ -4,9 +4,8 @@
 紙媒体で行っていた課題提出管理をWebシステム化。先生は課題のチェックや再提出要求、CSVによるアカウント一括登録などが可能。
 
 ### 使用技術
-- Java / JSP
+- HTML / CSS / JavaScript / PHP
 - MySQL
-- HTML / CSS / JavaScript
 
 ### 主な機能
 - 学生の課題提出・履修登録
